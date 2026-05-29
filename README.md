@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Autonomous Systems Simulation Suite
+# Autonomous Systems Simulation Suite
 
 **A modular collection of planners, controllers, localizers, and guidance laws — implemented from scratch in Python.**
 
@@ -14,32 +14,32 @@ Built for autonomy engineers and researchers who want clean, visual, and extensi
 
 ---
 
-## ✦ Design Philosophy
+## * Design Philosophy
 
 Every module in this suite is intentionally built around four principles:
 
 | Principle | Description |
 |-----------|-------------|
-| 🧠 **Readable** | Clean, well-commented code — math-first, optimization-second |
-| 🔌 **Modular** | Zero hardcoding; swap any planner or controller across pipelines |
-| 🔧 **Extendable** | OOP foundations make adding new algorithms or research variants straightforward |
-| 📊 **Visualizable** | Built-in simulation scripts for intuitive, visual understanding of system behavior |
+|  **Readable** | Clean, well-commented code — math-first, optimization-second |
+|  **Modular** | Zero hardcoding; swap any planner or controller across pipelines |
+|  **Extendable** | OOP foundations make adding new algorithms or research variants straightforward |
+|  **Visualizable** | Built-in simulation scripts for intuitive, visual understanding of system behavior |
 
 ---
 
-## 📦 Modules
+## * Modules
 
-### 🗺️ Planners
+### - Planners
 > *Coming soon*
 
 ---
 
-### 🎮 Controllers
+### - Controllers
 > *Coming soon*
 
 ---
 
-### 🎯 Guidance Laws
+### - Guidance Laws
 
 Implementations of classical and modern guidance laws for pursuit and interception problems.
 
@@ -82,13 +82,13 @@ Implementations of classical and modern guidance laws for pursuit and intercepti
 
 ---
 
-### 📍 Localizer
+### - Localizer
 > *Coming soon*
 
 ---
 
 
-## 🤝 Contributing
+## * Contributing
 
 Contributions, bug reports, and algorithm suggestions are welcome! Feel free to open an issue or submit a pull request.
 
