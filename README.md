@@ -2,7 +2,7 @@
 
 # Autonomous Systems Simulation Suite
 
-**A modular collection of planners, controllers, localizers, and guidance laws — implemented from scratch in Python.**
+**A modular collection of planners, controllers, localizers, and guidance laws — implemented in Python.**
 
 Built for autonomy engineers and researchers who want clean, visual, and extensible implementations of core autonomous vehicle algorithms.
 
