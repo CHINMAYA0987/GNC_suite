@@ -14,18 +14,7 @@ Built for autonomy engineers and researchers who want clean, visual, and extensi
 
 ---
 
-## * Design Philosophy
 
-Every module in this suite is intentionally built around four principles:
-
-| Principle | Description |
-|-----------|-------------|
-|  **Readable** | Clean, well-commented code — math-first, optimization-second |
-|  **Modular** | Zero hardcoding; swap any planner or controller across pipelines |
-|  **Extendable** | OOP foundations make adding new algorithms or research variants straightforward |
-|  **Visualizable** | Built-in simulation scripts for intuitive, visual understanding of system behavior |
-
----
 
 ## * Modules
 
