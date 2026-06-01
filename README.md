@@ -19,7 +19,19 @@ Built for autonomy engineers and researchers who want clean, visual, and extensi
 ## * Modules
 
 ### - Planners
-> *Coming soon*
+
+#### RRT
+<img width="720" height="406" alt="rrt_planner" src="https://github.com/user-attachments/assets/27186da3-b1d3-4bf1-b4f3-992ab0b72527" />
+
+#### Bug
+<img width="720" height="406" alt="bug_planner" src="https://github.com/user-attachments/assets/77701165-1074-491e-bb0f-85ba6dce9529" />
+
+#### A-Star
+<img width="720" height="406" alt="astar_planner" src="https://github.com/user-attachments/assets/2c0bf227-ebd8-4984-8c2f-d8f27511febe" />
+
+#### PRM
+<img width="640" height="480" alt="prm" src="https://github.com/user-attachments/assets/097cde1c-6183-4684-a8d1-1c4fc009eaaf" />
+
 
 ---
 
