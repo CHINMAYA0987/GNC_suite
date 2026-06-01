@@ -21,16 +21,17 @@ Built for autonomy engineers and researchers who want clean, visual, and extensi
 ### - Planners
 
 #### RRT
-<img width="720" height="406" alt="rrt_planner" src="https://github.com/user-attachments/assets/27186da3-b1d3-4bf1-b4f3-992ab0b72527" />
+<img width="720" height="406" alt="RRT_planner" src="https://github.com/user-attachments/assets/6eb4dbff-637f-4758-ba3b-6513a10fa469" />
 
 #### Bug
-<img width="720" height="406" alt="bug_planner" src="https://github.com/user-attachments/assets/77701165-1074-491e-bb0f-85ba6dce9529" />
+<img width="720" height="406" alt="bug_planner" src="https://github.com/user-attachments/assets/c87b6926-a695-4b37-a322-8f0c17ae573c" />
+
 
 #### A-Star
-<img width="720" height="406" alt="astar_planner" src="https://github.com/user-attachments/assets/2c0bf227-ebd8-4984-8c2f-d8f27511febe" />
+<img width="720" height="406" alt="a_star" src="https://github.com/user-attachments/assets/2afc8efc-35a7-4ff0-af46-8c1517420340" />
 
 #### PRM
-<img width="640" height="480" alt="prm" src="https://github.com/user-attachments/assets/097cde1c-6183-4684-a8d1-1c4fc009eaaf" />
+<img width="640" height="480" alt="prm_planner" src="https://github.com/user-attachments/assets/1b3bd8b3-660f-48e6-8075-f03f3be0508e" />
 
 
 ---
