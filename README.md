@@ -21,23 +21,36 @@ Built for autonomy engineers and researchers who want clean, visual, and extensi
 ### - Planners
 
 #### RRT
-<img width="720" height="406" alt="RRT_planner" src="https://github.com/user-attachments/assets/6eb4dbff-637f-4758-ba3b-6513a10fa469" />
+<img width="720" height="406" alt="RRT_planner" src="https://github.com/user-attachments/assets/925b9bd1-defc-43bc-babe-0d5554bb4953" />
+
 
 #### Bug
-<img width="720" height="406" alt="bug_planner" src="https://github.com/user-attachments/assets/c87b6926-a695-4b37-a322-8f0c17ae573c" />
+<img width="720" height="406" alt="bug_planner" src="https://github.com/user-attachments/assets/7190275a-8b3a-47f3-b17e-20a43d3f12de" />
 
 
 #### A-Star
-<img width="720" height="406" alt="a_star" src="https://github.com/user-attachments/assets/2afc8efc-35a7-4ff0-af46-8c1517420340" />
+<img width="720" height="406" alt="a_star" src="https://github.com/user-attachments/assets/14a03baf-1fef-4618-bec4-536923b7deb6" />
 
 #### PRM
-<img width="640" height="480" alt="prm_planner" src="https://github.com/user-attachments/assets/1b3bd8b3-660f-48e6-8075-f03f3be0508e" />
+<img width="720" height="406" alt="PRM" src="https://github.com/user-attachments/assets/ed49735c-eae2-4279-9467-511db61fc368" />
 
 
 ---
 
 ### - Controllers
-> *Coming soon*
+
+#### Carrot Chase
+<img width="720" height="406" alt="carrot_chase_control" src="https://github.com/user-attachments/assets/c8645f00-8b3b-4fa5-9f48-f4778fd375c8" />
+
+#### Pure Pursuit
+<img width="720" height="406" alt="pure_pursuit_control" src="https://github.com/user-attachments/assets/2f0b37b6-a577-4940-903a-3e6ab3b5e9a4" />
+
+#### LQR Control
+<img width="720" height="406" alt="lqr_controller" src="https://github.com/user-attachments/assets/ea7c580d-f247-4292-a46c-ab87e1bd90c4" />
+
+#### MPC Control
+<img width="720" height="406" alt="MPC_controller" src="https://github.com/user-attachments/assets/97bab039-6c86-454c-9d19-7e4a719c8935" />
+
 
 ---
 
