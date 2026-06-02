@@ -98,7 +98,8 @@ Implementations of classical and modern guidance laws for pursuit and intercepti
 ---
 
 ### - Localizer
-> *Coming soon*
+
+https://github.com/CHINMAYA0987/Filters_Localization_Python
 
 ---
 
